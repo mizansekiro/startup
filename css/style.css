@@ -58,13 +58,14 @@ header.startup hr {
 
 
 #mc_embed_signup input {
-    border: none;
+    border: 0px!important;
+    padding: 0px!important ;
     
 }
 
 #mc_embed_signup form {
     
-    text-align: center;
+    text-align: center !important;
     
 }
 
