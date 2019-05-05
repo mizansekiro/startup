@@ -21,7 +21,6 @@ hr {
 }
 
 
-
 header.startup {
   background-position: center;
   background-image: url("../images/header.jpg");
@@ -57,6 +56,17 @@ header.startup hr {
   cursor: pointer;
 }
 
+
+#mc_embed_signup input {
+    border: none;
+    
+}
+
+#mc_embed_signup form {
+    
+    text-align: center;
+    
+}
 
 
 
